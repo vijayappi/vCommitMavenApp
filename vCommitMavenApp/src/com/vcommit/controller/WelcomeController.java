@@ -15,7 +15,7 @@ public class WelcomeController {
 	@RequestMapping("/welcome")
 	public ModelAndView helloWorld() {
  
-		String message = "Welcome to Vcommit world";
+		String message = "Welcome to Vcommit world 123";
 		return new ModelAndView("welcome", "message", message);
 	}
 }
