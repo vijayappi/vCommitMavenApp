@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
  */
  
 @Controller
-public class Welcome123Controller {
+public class WelcomeController {
  
 	@RequestMapping("/welcome")
 	public ModelAndView helloWorld() {
