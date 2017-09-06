@@ -5,7 +5,7 @@
 <body>
 	<br>
 	<div style="text-align:center">
-			<a href="welcome.html">click here</a>
+			<a href="welcome.html">click here boss</a>
 	</div>
 </body>
 </html>
