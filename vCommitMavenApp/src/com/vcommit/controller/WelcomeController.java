@@ -14,6 +14,7 @@ public class WelcomeController {
  
 	@RequestMapping("/welcome")
 	public ModelAndView helloWorld() {
+		System.out.println("adding a comment in Controller");
  
 		String message = "Welcome to Vcommit world";
 		return new ModelAndView("welcome", "message", message);
